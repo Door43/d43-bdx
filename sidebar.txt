@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bdx:home|Door43 (bdx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bdx|d43-bdx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bdx/archive/master.zip|d43-bdx.zip]]
+
+**Recent Changes**
+{{changes>ns = bdx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bdx|Ethnologue data]]
+
